@@ -1,11 +1,12 @@
-👋 Hi, I'm Shinonn
+# 💫 About Me:
+👋 Hi, I'm Shinonn<br><br>I’m a developer who focuses on building systems that stay manageable in the long run.<br>Most of my work revolves around designing clear workflows, structuring complex logic, and keeping codebases understandable as they grow.<br><br>I currently work with Frappe and build internal systems, while exploring small side projects using various tools and languages.<br>Recently, I’ve been getting into Rust — it feels like a genuinely well-designed language, and I love how it encourages clarity and correctness without unnecessary complexity.<br><br>I prefer simplicity in both architecture and execution, and I value maintainability more than clever techniques.<br><br>If you share similar ideas or want to discuss system design (or Rust!), feel free to reach out.
 
-I’m a developer who focuses on building systems that stay manageable in the long run.
-Most of my work revolves around designing clear workflows, structuring complex logic, and keeping codebases understandable as they grow.
 
-I currently work with Frappe and build internal systems, while exploring small side projects using various tools and languages.
-Recently, I’ve been getting into Rust — it feels like a genuinely well-designed language, and I love how it encourages clarity and correctness without unnecessary complexity.
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shinonn23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shinonn23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinonn23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I prefer simplicity in both architecture and execution, and I value maintainability more than clever techniques.
-
-If you share similar ideas or want to discuss system design (or Rust!), feel free to reach out.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
